@@ -2,7 +2,7 @@
 ## Official Implementation for DAUMOT: Domain Adaptation for Unsupervised Multiple Object Tracking <br />
 ** DAUMOT: Domain Adaptation for Unsupervised Multiple Object Tracking ** <br />
 
-The idea was orignaited from Guillaume Delorme and he implemented the code for FairMOT-DAUMOT, Yihong finished the TransCenter-DAUMOT part.
+The idea was originated from Guillaume Delorme and he implemented the code for FairMOT-DAUMOT, Yihong finished the TransCenter-DAUMOT part.
 
 [Guillaume Delorme*](https://team.inria.fr/robotlearn/team-members/guillaume-delorme/), [Yihong Xu*](https://team.inria.fr/robotlearn/team-members/yihong-xu/), [Luis G. Camara](https://team.inria.fr/robotlearn/team-members/luis-gomez-camara/), [Elisa Ricci](http://elisaricci.eu/), [Radu Horaud](https://team.inria.fr/perception/team-members/radu-patrice-horaud/), [Xavier Alameda-Pineda](http://xavirema.eu/) <br />
 <div align="center">
